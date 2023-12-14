@@ -1,0 +1,63 @@
+Ajax
+Roma
+Porto
+Milan
+Lazio
+Zenit
+Santos
+Ituano
+Napoli
+Penarol
+Chelsea
+Arsenal
+Sao Paulo
+Palmeiras
+Barcelona
+Liverpool
+Juventus
+Flamengo
+Villarreal
+Fiorentina
+Chapecoense
+Botafogo SP
+Botafogo RJ
+Real Madrid
+Boca Juniors
+Sporting
+Benfica
+Schalke
+River Plate
+Internacional
+Independiente
+Tottenham
+Sevilla
+Valencia
+Juventude
+Santa Cruz
+Monaco
+Hamburgo
+Inter de Milao
+Manchester City
+America de Natal
+America do Mexico
+America do Rio
+Athletico Paranaense
+Atletico Goianiense
+Atletico Mineiro
+Borussia Dortmund
+Atletico de Madrid
+Sampaio Correa
+Olympique de Marselha
+Bayern de Munique
+Manchester United
+Galatasaray
+Santa Cruz de Natal
+Paris Saint Germain
+Shakhtar Donetsk
+Kashima Antlers
+CSKA Moscow
+Feyenoord
+Copenhague
+Celtic
+Besiktas
+Rangers
